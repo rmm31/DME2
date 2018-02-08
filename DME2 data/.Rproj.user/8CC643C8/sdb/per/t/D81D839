@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517975553005.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D81D839",
+    "lastKnownWriteTime" : -3458764513550510485,
+    "last_content_update" : 1517975553005,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "29E314A1",
+        "caption" : "AEMO_forecast_max_demand1",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=AEMO_forecast_max_demand1&cache_key=29E314A1",
+        "displayedObservations" : 63,
+        "environment" : "",
+        "object" : "AEMO_forecast_max_demand1",
+        "preview" : 0,
+        "totalObservations" : 63,
+        "variables" : 3
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

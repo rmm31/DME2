@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517354401591.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1D9B0376",
+    "lastKnownWriteTime" : 4513532464,
+    "last_content_update" : 1517354401591,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3A6CD0D7",
+        "caption" : "Book1",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Book1&cache_key=3A6CD0D7",
+        "displayedObservations" : 6,
+        "environment" : "",
+        "object" : "Book1",
+        "preview" : 0,
+        "totalObservations" : 6,
+        "variables" : 12
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

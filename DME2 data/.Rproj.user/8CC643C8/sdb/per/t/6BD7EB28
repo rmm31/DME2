@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518068564942.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6BD7EB28",
+    "lastKnownWriteTime" : 4572259848,
+    "last_content_update" : 1518068564942,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "C25A9C88",
+        "caption" : "QLD_rooftop_forecast",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=QLD_rooftop_forecast&cache_key=C25A9C88",
+        "displayedObservations" : 1,
+        "environment" : "",
+        "object" : "QLD_rooftop_forecast",
+        "preview" : 0,
+        "totalObservations" : 1,
+        "variables" : 3
+    },
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

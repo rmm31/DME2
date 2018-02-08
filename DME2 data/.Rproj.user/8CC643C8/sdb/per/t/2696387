@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517645748886.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2696387",
+    "lastKnownWriteTime" : 4508533568,
+    "last_content_update" : 1517645748886,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "DF2DBE22",
+        "caption" : "QLD_rooftop",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=QLD_rooftop&cache_key=DF2DBE22",
+        "displayedObservations" : "1",
+        "environment" : "",
+        "object" : "QLD_rooftop",
+        "preview" : "0",
+        "totalObservations" : "1",
+        "variables" : "3"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

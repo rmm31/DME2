@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517645839741.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "17133DC7",
+    "lastKnownWriteTime" : 137438953472,
+    "last_content_update" : 1517645839741,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "A852BEEC",
+        "caption" : "qldgen2",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=qldgen2&cache_key=A852BEEC",
+        "displayedObservations" : "42",
+        "environment" : "",
+        "object" : "qldgen2",
+        "preview" : "0",
+        "totalObservations" : "42",
+        "variables" : "3"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
